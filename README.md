@@ -6,3 +6,5 @@ Hello
 
 
 local1
+
+local2
