@@ -5,6 +5,8 @@ import net.miginfocom.swing.MigLayout;
 import java.awt.*;
 import javax.swing.*;
 
+//http://jnb.ociweb.com/jnb/jnbMay2009.html
+
 /**
  * This class builds the dashboard examples used in the May 2009 Java News Brief
  * article located at http://www.ociweb.com/jnb/jnbMay2009.html
